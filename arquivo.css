@@ -1,0 +1,47 @@
+body {
+    background-image: linear-gradient(to left, white, mediumslateblue);
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    color: black;
+    text-align: justify;
+}
+h2{
+    color: oldlace;
+    text-align: justify;
+    text-shadow:5px 5px 5px plum;
+}
+h1{
+    color: oldlace;
+    text-align: justify;
+    text-shadow:5px 5px 5px plum;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border:8px solid oldlace;
+    border-radius:20%; 
+}
+img:hover{
+    border-image: 100%;
+    opacity: 50%;
+    height: 600px;
+    width: 600px;
+}
+.um {
+    color: salmon;
+    text-decoration: none;
+}
+.dois{
+    color: violet;
+    text-decoration: none;
+}
+.um:hover{
+    color: black;
+}
+.dois:hover{
+    color: black;
+}
